@@ -463,9 +463,9 @@ nav ul li a:hover::after {
     font-size: 1.5rem;
 }
 
-.skill-bar {
+ .skill-bar { 
     background: #f1f1f1;
-    height: 12px;
+    height: 23px;
     border-radius: 10px;
     margin-top: 25px;
     overflow: hidden;
@@ -522,7 +522,7 @@ nav ul li a:hover::after {
 
 .node {
     width: 70%;
-    background: linear-gradient(135deg, #68A063 0%, #3C873A 100%);
+    background: linear-gradient(135deg, #c054ce 0%, #c203b2 100%);
 }
 
 .mongo {
